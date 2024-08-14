@@ -1,0 +1,24 @@
+fortification_custom_src/dust_01
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/fortification_custom_src/dust_01
+			displacement 0 0 0 ~0
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 50
+			velocity 0 0 1 ~360
+			radius 0 50 300
+			alpha 0 1 0.0
+			rotation 0 ~360 -
+			bounce 0
+			realLight 
+			lifeTime 8000
+    }
+    count infinite
+    delay 0
+    period 1000 1 ~33%
+  }
+}
