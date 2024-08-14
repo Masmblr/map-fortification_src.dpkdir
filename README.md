@@ -49,7 +49,7 @@ Fortification is a game level by Matthias "Masmblr" Peters for the open source g
     -Shader and gfx updates
 
     13.08.2024: v1.15
-    -Shader and Texture enhancemends
+    -Shader and Texture enhancements
     -Various fixes
     -Source cleanup
     -Sounds exchanged
