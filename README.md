@@ -1,5 +1,5 @@
 # Fortification - Game Level For Unvanquished
-![header](readme_meta/header/header.webp) 
+![header](readme_meta/header/header.jpg) 
 
 ## Overview: Sci-Fi military base in the Sahara
 Fortification is a game level by Matthias "Masmblr" Peters for the open source game [_Unvanquished_](https://Unvanquished.net/).
@@ -16,18 +16,18 @@ Fortification is a game level by Matthias "Masmblr" Peters for the open source g
 
 
 ## Screenshots:
-[<img src="readme_meta/preview_levelshots/1.webp" width="250"/>](readme_meta/preview_levelshots/1.webp)
-[<img src="readme_meta/preview_levelshots/2.webp" width="250"/>](readme_meta/preview_levelshots/2.webp)
-[<img src="readme_meta/preview_levelshots/3.webp" width="250"/>](readme_meta/preview_levelshots/3.webp)
-[<img src="readme_meta/preview_levelshots/4.webp" width="250"/>](readme_meta/preview_levelshots/4.webp)
-[<img src="readme_meta/preview_levelshots/5.webp" width="250"/>](readme_meta/preview_levelshots/5.webp)
-[<img src="readme_meta/preview_levelshots/6.webp" width="250"/>](readme_meta/preview_levelshots/6.webp)
-[<img src="readme_meta/preview_levelshots/7.webp" width="250"/>](readme_meta/preview_levelshots/7.webp)
-[<img src="readme_meta/preview_levelshots/8.webp" width="250"/>](readme_meta/preview_levelshots/8.webp)
-[<img src="readme_meta/preview_levelshots/9.webp" width="250"/>](readme_meta/preview_levelshots/9.webp)
-[<img src="readme_meta/preview_levelshots/10.webp" width="250"/>](readme_meta/preview_levelshots/10.webp)
-[<img src="readme_meta/preview_levelshots/11.webp" width="250"/>](readme_meta/preview_levelshots/11.webp)
-[<img src="readme_meta/preview_levelshots/12.webp" width="250"/>](readme_meta/preview_levelshots/12.webp)
+[<img src="readme_meta/preview_levelshots/1.jpg" width="250"/>](readme_meta/preview_levelshots/1.jpg)
+[<img src="readme_meta/preview_levelshots/2.jpg" width="250"/>](readme_meta/preview_levelshots/2.jpg)
+[<img src="readme_meta/preview_levelshots/3.jpg" width="250"/>](readme_meta/preview_levelshots/3.jpg)
+[<img src="readme_meta/preview_levelshots/4.jpg" width="250"/>](readme_meta/preview_levelshots/4.jpg)
+[<img src="readme_meta/preview_levelshots/5.jpg" width="250"/>](readme_meta/preview_levelshots/5.jpg)
+[<img src="readme_meta/preview_levelshots/6.jpg" width="250"/>](readme_meta/preview_levelshots/6.jpg)
+[<img src="readme_meta/preview_levelshots/7.jpg" width="250"/>](readme_meta/preview_levelshots/7.jpg)
+[<img src="readme_meta/preview_levelshots/8.jpg" width="250"/>](readme_meta/preview_levelshots/8.jpg)
+[<img src="readme_meta/preview_levelshots/9.jpg" width="250"/>](readme_meta/preview_levelshots/9.jpg)
+[<img src="readme_meta/preview_levelshots/10.jpg" width="250"/>](readme_meta/preview_levelshots/10.jpg)
+[<img src="readme_meta/preview_levelshots/11.jpg" width="250"/>](readme_meta/preview_levelshots/11.jpg)
+[<img src="readme_meta/preview_levelshots/12.jpg" width="250"/>](readme_meta/preview_levelshots/12.jpg)
 
 ## History:
 | Version: | Date:        | Status: |    
@@ -92,154 +92,154 @@ LICENSE \
 README.md \
 VERSION \
 about\fortification.txt
-env/fortification/desert_bk.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_dn.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_ft.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_lf.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_rt.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_up.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-gfx/fortification/colorgrading.webp * (https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
+env/fortification/desert_bk.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+env/fortification/desert_dn.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+env/fortification/desert_ft.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+env/fortification/desert_lf.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+env/fortification/desert_rt.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+env/fortification/desert_up.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+gfx/fortification/colorgrading.jpg * (https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
 maps/fortification.map \
 meta/fortification/fortification.arena \
-meta/fortification/fortification.webp \
-minimaps/fortification.webp \
-readme_meta/header/header.webp \
-preview_levelshots/1.webp \
-preview_levelshots/2.webp \
-preview_levelshots/3.webp \
-preview_levelshots/4.webp \
-preview_levelshots/5.webp \
-preview_levelshots/6.webp \
-preview_levelshots/7.webp \
-preview_levelshots/8.webp \
-preview_levelshots/9.webp \
-preview_levelshots/10.webp \
-preview_levelshots/11.webp \
-preview_levelshots/12.webp \
+meta/fortification/fortification.jpg \
+minimaps/fortification.jpg \
+readme_meta/header/header.jpg \
+preview_levelshots/1.jpg \
+preview_levelshots/2.jpg \
+preview_levelshots/3.jpg \
+preview_levelshots/4.jpg \
+preview_levelshots/5.jpg \
+preview_levelshots/6.jpg \
+preview_levelshots/7.jpg \
+preview_levelshots/8.jpg \
+preview_levelshots/9.jpg \
+preview_levelshots/10.jpg \
+preview_levelshots/11.jpg \
+preview_levelshots/12.jpg \
 scripts/fortification_custom.particle \
 scripts/fortification_custom.shader \
 scripts/shaderlist.txt \
 sounds/fortification/fortification_amb.opus * ([inchadney](https://freesound.org/people/inchadney), Attribution-ShareAlike 4.0) \
 sounds/fortification/pump_start.opus * ([Jorge_M_Rodrigues](https://freesound.org/people/Jorge_M_Rodrigues/), Attribution NonCommercial 4.0) \
 sounds/fortification/pump_end.opus * ([Jorge_M_Rodrigues](https://freesound.org/people/Jorge_M_Rodrigues/), Attribution NonCommercial 4.0) \
-textures/fortification_custom_src/crate_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_01_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_01_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_02_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_02_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_02_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\ecal_01.webp \
-textures/fortification_custom_src/env\fortification\oor_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_01_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_01_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_02_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_02_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_02_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\ust_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_01b_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_01_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_01_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_02_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_02_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_02_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_03_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_03_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_03_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04b_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04ter_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04_ter_blend.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_05_d.webp \
-textures/fortification_custom_src/floor_05_n.webp \
-textures/fortification_custom_src/floor_05_s.webp \
-textures/fortification_custom_src/floor_06_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_06_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_06_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_07_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_07_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_07_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_08_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_08_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_08_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_blink.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_glow.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/glass_01_d.webp \
-textures/fortification_custom_src/glass_01_hhm.webp \
-textures/fortification_custom_src/glass_01_n.webp \
-textures/fortification_custom_src/glass_01_s.webp \
-textures/fortification_custom_src/light_01_blink.webp \
-textures/fortification_custom_src/light_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_01_glow.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_01_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_01_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_02_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_02_glow.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_02_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_02_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_03_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_03_glow.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_03_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_03_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/nature_01b_d.webp \
-textures/fortification_custom_src/nature_01_d.webp \
-textures/fortification_custom_src/nature_01_n.webp \
-textures/fortification_custom_src/nature_01_s.webp \
-textures/fortification_custom_src/nature_02b_d.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/nature_02ter_d.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/nature_02_d.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/nature_02_n.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/nature_02_s.webp * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/null.webp \
-textures/fortification_custom_src/sand_drift.webp \
-textures/fortification_custom_src/sfx_01.webp \
-textures/fortification_custom_src/sfx_02.webp \
-textures/fortification_custom_src/sfx_envmap.webp \
-textures/fortification_custom_src/top_01b_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/top_01b_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/top_01b_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/top_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_01_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_01_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_02_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_02_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_02_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_03_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_03_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_03_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_04_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_04_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_04_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_01_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_01_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_01_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_03_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_03_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_03_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_04_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_04_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_04_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_05_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_05_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_05_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_06_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_06_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_06_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_07_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_07_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_07_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_07_sand_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_08_d.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_08_n.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_08_s.webp * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/weather.webp \
-textures/fortification_custom_src/qer_related/desert_light_img.webp \
-textures/fortification_custom_src/qer_related/dessert_fog.webp \
-textures/fortification_custom_src/qer_related/qer_alphablend_0.webp \
-textures/fortification_custom_src/qer_related/qer_alphablend_1.webp
+textures/fortification_custom_src/crate_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/crate_01_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/crate_01_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/crate_02_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/crate_02_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/crate_02_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/env\fortification\ecal_01.jpg \
+textures/fortification_custom_src/env\fortification\oor_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/env\fortification\oor_01_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/env\fortification\oor_01_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/env\fortification\oor_02_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/env\fortification\oor_02_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/env\fortification\oor_02_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/env\fortification\ust_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_01b_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_01_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_01_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_02_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_02_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_02_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_03_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_03_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_03_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_04b_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_04ter_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_04_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_04_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_04_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_04_ter_blend.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_05_d.jpg \
+textures/fortification_custom_src/floor_05_n.jpg \
+textures/fortification_custom_src/floor_05_s.jpg \
+textures/fortification_custom_src/floor_06_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_06_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_06_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_07_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_07_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_07_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_08_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_08_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/floor_08_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/func_01_blink.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/func_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/func_01_glow.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/func_01_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/func_01_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/glass_01_d.jpg \
+textures/fortification_custom_src/glass_01_hhm.jpg \
+textures/fortification_custom_src/glass_01_n.jpg \
+textures/fortification_custom_src/glass_01_s.jpg \
+textures/fortification_custom_src/light_01_blink.jpg \
+textures/fortification_custom_src/light_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_01_glow.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_01_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_01_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_02_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_02_glow.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_02_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_02_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_03_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_03_glow.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_03_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/light_03_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/nature_01b_d.jpg \
+textures/fortification_custom_src/nature_01_d.jpg \
+textures/fortification_custom_src/nature_01_n.jpg \
+textures/fortification_custom_src/nature_01_s.jpg \
+textures/fortification_custom_src/nature_02b_d.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+textures/fortification_custom_src/nature_02ter_d.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+textures/fortification_custom_src/nature_02_d.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+textures/fortification_custom_src/nature_02_n.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+textures/fortification_custom_src/nature_02_s.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
+textures/fortification_custom_src/null.jpg \
+textures/fortification_custom_src/sand_drift.jpg \
+textures/fortification_custom_src/sfx_01.jpg \
+textures/fortification_custom_src/sfx_02.jpg \
+textures/fortification_custom_src/sfx_envmap.jpg \
+textures/fortification_custom_src/top_01b_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/top_01b_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/top_01b_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/top_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_01_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_01_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_02_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_02_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_02_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_03_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_03_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_03_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_04_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_04_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/trim_04_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_01_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_01_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_01_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_03_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_03_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_03_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_04_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_04_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_04_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_05_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_05_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_05_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_06_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_06_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_06_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_07_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_07_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_07_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_07_sand_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_08_d.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_08_n.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/wall_08_s.jpg * (Milosh Andrich, Attribution License) \
+textures/fortification_custom_src/weather.jpg \
+textures/fortification_custom_src/qer_related/desert_light_img.jpg \
+textures/fortification_custom_src/qer_related/dessert_fog.jpg \
+textures/fortification_custom_src/qer_related/qer_alphablend_0.jpg \
+textures/fortification_custom_src/qer_related/qer_alphablend_1.jpg
