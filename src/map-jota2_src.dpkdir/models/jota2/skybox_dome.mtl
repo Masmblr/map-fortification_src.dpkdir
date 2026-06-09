@@ -1,9 +1,0 @@
-newmtl textures/common/caulk
-Kd 1.000000 1.000000 1.000000
-map_Kd ../textures/common/caulk.tga
-newmtl textures/jota2_custom_src/cloud_stream
-Kd 1.000000 0.000176 0.000352
-map_Kd ../textures/jota2_custom_src/cloud_stream
-newmtl textures/jota2_custom_src/cloud_stream
-Kd 1.000000 0.000176 0.000352
-map_Kd ..textures/jota2_custom_src/cloud_stream
