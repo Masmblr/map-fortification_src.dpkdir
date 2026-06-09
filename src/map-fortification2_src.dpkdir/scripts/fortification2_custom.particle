@@ -1,0 +1,26 @@
+// File: fortification2_custom.particle
+// Author: Masmblr
+
+fortification2_custom_src/dust_01
+{
+	ejector
+	{
+		particle
+		{
+			shader sync textures/fortification2_custom_src/dust_01
+			displacement 0 0 0 ~0
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 50
+			velocity 0 0 1 ~360
+			radius 0 50 300
+			alpha 0 1 0.t
+			rotation 0 ~360 -
+			bounce 0
+			lifeTime 12000
+	}
+	count infinite
+	delay 0
+	period 500 1 ~33%
+  }
+}

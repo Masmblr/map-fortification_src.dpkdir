@@ -1,0 +1,221 @@
+Fortification 2 Legal Information File
+https://github.com/Masmblr
+===================================
+
+MATERIAL
+========
+
+This is a complete list of all files included in this project, along with their respective authors and license information.
+Derivative files are marked with (modified) and retain the original license unless otherwise noted.
+
+
+Material by Matthias Peters (Masmblr) © 2026
+License: Creative Commons BY-NC-SA 4.0 (see docs/licenses/CC-NC-SA_4.0.txt)
+----
+.gitattributes
+.gitignore
+.gitmodules
+merge.ps1
+merge.sh
+README.md
+docs\images\1.15\1.jpg
+docs\images\1.15\10.jpg
+docs\images\1.15\11.jpg
+docs\images\1.15\12.jpg
+docs\images\1.15\2.jpg
+docs\images\1.15\3.jpg
+docs\images\1.15\4.jpg
+docs\images\1.15\5.jpg
+docs\images\1.15\6.jpg
+docs\images\1.15\7.jpg
+docs\images\1.15\8.jpg
+docs\images\1.15\9.jpg
+docs\images\1.15\header.jpg
+docs\images\1.2\1.jpg
+docs\images\1.2\10.jpg
+docs\images\1.2\11.jpg
+docs\images\1.2\12.jpg
+docs\images\1.2\13.jpg
+docs\images\1.2\14.jpg
+docs\images\1.2\15.jpg
+docs\images\1.2\16.jpg
+docs\images\1.2\17.jpg
+docs\images\1.2\18.jpg
+docs\images\1.2\19.jpg
+docs\images\1.2\2.jpg
+docs\images\1.2\3.jpg
+docs\images\1.2\4.jpg
+docs\images\1.2\5.jpg
+docs\images\1.2\6.jpg
+docs\images\1.2\7.jpg
+docs\images\1.2\8.jpg
+docs\images\1.2\9.jpg
+docs\images\1.2\header.jpg
+src\map-fortification2_src.dpkdir\DEPS
+src\map-fortification2_src.dpkdir\VERSION
+src\map-fortification2_src.dpkdir\about\fortification2.txt
+src\map-fortification2_src.dpkdir\maps\fortification2.map
+src\map-fortification2_src.dpkdir\meta\fortification2\fortification2.arena
+src\map-fortification2_src.dpkdir\meta\fortification2\fortification2.jpg
+src\map-fortification2_src.dpkdir\scripts\fortification2_custom.particle
+src\map-fortification2_src.dpkdir\scripts\fortification2_custom.shader
+src\map-fortification2_src.dpkdir\scripts\shaderlist.txt
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\air_flow.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\dune_sand.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\dune_sand_drift.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\dune_sand_n.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\dune_sand_s.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\rocks_d.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\rocks_n.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\rocks_s.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\glass_01_d.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\glass_01_hhm.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\glass_01_s.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\fog.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\sand_drift.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\sfx_01.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\sfx_02.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\sfx_envmap.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\terrain_alpha_000.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\terrain_alpha_100.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\terrain_floor_01_to_sand_qer.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\terrain_floor_04_to_sand_qer.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\terrain_rocks_to_sand_qer.webp
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\weather.webp
+
+
+Material by Matthias Peters (Masmblr) & Unvanquished Development
+License: Creative Commons BY-SA 2.5 (Inherited due to Share Alike, see docs/licenses/CC-BY-SA-2.5.txt)
+Note: Contains the Unvanquished logo.
+----
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\decal_01.webp (modified)
+
+
+Material by Unvanquished Development
+License: Creative Commons BY-SA 2.5 (see docs/licenses/CC-BY-SA_2.5.txt)
+----
+src\map-fortification2_src.dpkdir\gfx\fortification2\colorgrading.webp (modified)
+
+
+Material by Szico VII (www.szicovii.com)
+License: Attribution-ShareAlike (see docs/licenses/CC-BY-SA_2.5.txt)
+----
+src\map-fortification2_src.dpkdir\env\fortification2\desert_bk.webp (modified)
+src\map-fortification2_src.dpkdir\env\fortification2\desert_dn.webp (modified)
+src\map-fortification2_src.dpkdir\env\fortification2\desert_ft.webp (modified)
+src\map-fortification2_src.dpkdir\env\fortification2\desert_lf.webp (modified)
+src\map-fortification2_src.dpkdir\env\fortification2\desert_rt.webp (modified)
+src\map-fortification2_src.dpkdir\env\fortification2\desert_up.webp (modified)
+
+
+Material by inchadney
+License: Attribution-ShareAlike 4.0 (see docs/licenses/CC-BY-SA_4.0.txt)
+----
+src\map-fortification2_src.dpkdir\sounds\fortification2\fortification_amb.opus (modified)
+
+
+Material by Jorge_M_Rodrigues
+License: Attribution NonCommercial 4.0 (see docs/licenses/CC-NC-SA_4.0.txt)
+----
+src\map-fortification2_src.dpkdir\sounds\fortification2\pump_end.opus (modified)
+src\map-fortification2_src.dpkdir\sounds\fortification2\pump_start.opus (modified)
+
+
+Material by Masmblr & Milosh Andrich
+License: Attribution License (Inherited)
+Note: Derivative work, LLM enhanced.
+----
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\crate_01_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\crate_01_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\crate_01_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\crate_02_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\crate_02_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\crate_02_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\door_01_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\door_01_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\door_01_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\door_02_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\door_02_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\door_02_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_01_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_01_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_01_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_02_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_02_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_02_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_03_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_03_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_03_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_04_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_04_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_04_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_05_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_05_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_05_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_06_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_06_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_06_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_07_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_07_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_07_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_08_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_08_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\floor_08_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\func_01_blink.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\func_01_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\func_01_glow.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\func_01_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\func_01_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_01_blink.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_01_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_01_glow.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_01_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_01_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_02_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_02_glow.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_02_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_02_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_03_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_03_glow.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_03_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\light_03_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\top_01b_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\top_01b_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\top_01b_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\top_01_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\top_01_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\top_01_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_01_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_01_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_01_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_02_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_02_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_02_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_03_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_03_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_03_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_04_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_04_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\trim_04_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_01_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_01_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_01_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_03_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_03_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_03_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_04_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_04_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_04_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_05_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_05_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_05_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_06_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_06_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_06_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_07_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_07_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_07_s.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_07_sand_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_08_d.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_08_n.webp (modified)
+src\map-fortification2_src.dpkdir\textures\fortification2_custom_src\wall_08_s.webp (modified)
