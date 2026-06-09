@@ -1,0 +1,3 @@
+[submodule "src/map-fortification2_src.dpkdir/dependencies/tex-common_src.dpkdir"]
+	path = src/map-fortification2_src.dpkdir/dependencies/tex-common_src.dpkdir
+	url = https://github.com/UnvanquishedAssets/tex-common_src.dpkdir.git

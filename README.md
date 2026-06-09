@@ -1,245 +1,274 @@
-# Fortification - Game Level For Unvanquished
-![header](readme_meta/header/header.jpg) 
+<h1 align="center">Jota 2
 
-## Overview: Sci-Fi military base in the Sahara
-Fortification is a game level by Matthias "Masmblr" Peters for the open source game [_Unvanquished_](https://Unvanquished.net/).
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Masmblr/map-jota2_src)](https://github.com/Masmblr/map-jota2_src/releases)
+[![License](https://img.shields.io/badge/license-multi--license-blue)](LICENSE)
 
-##  Description: 
-   Welcome to "Fortification," an abandoned sci-fi military base in the vast expanse of the Sahara desert. Drawing inspiration from the layout of the popular map "fort5".
+![header](docs/images/3.1/header.jpg)
 
-   The design of Fortification embraces the eerie and desolate ambiance of a once-thriving military facility, now left to the unforgiving desert sands. 
-   Players will find themselves navigating through a axially symmetrical environment. At the core of Fortification lies a central battleground and shuttle landing area. 
-   This open, mid-sized arena serves as the focal point of the map, where players will engage in fierce firefights and tactical skirmishes.
+## Table of Contents
+- [Introduction](#introduction)
+- [Screenshots](#screenshots)
+- [Install & Run](#install--run)
+- [Changelog](#changelog)
+- [Setup Source](#setup-source)
+  - [Build](#build)
+  - [Run](#run)
+- [Tools](#tools)
+- [Related Resources](#related-resources)
+- [Acknowledgments](#acknowledgments)
+- [Credits & License](#credits--license)
 
-   One of the key highlights of Fortification is the dual-access system. Players can choose between two distinct paths to approach the central battleground.
-   Delving deeper into the mysteries of the abandoned military base, players will discover an underground connection tunnel.
+## Introduction
+Jota 2 is a game level by Matthias "Masmblr" Peters for the open source game [_Unvanquished_](https://Unvanquished.net/).
+Originally developed for Tremulous, this map is now also available for Unvanquished.
+
+## v3.1 Screenshots
+<p align="left">
+  <img src="docs/images/3.1/1.jpg" width="250" alt="Shot 1">
+  <img src="docs/images/3.1/2.jpg" width="250" alt="Shot 2">
+  <img src="docs/images/3.1/3.jpg" width="250" alt="Shot 3">
+  <img src="docs/images/3.1/4.jpg" width="250" alt="Shot 4">
+  <img src="docs/images/3.1/5.jpg" width="250" alt="Shot 5">
+  <img src="docs/images/3.1/6.jpg" width="250" alt="Shot 6">
+  <img src="docs/images/3.1/7.jpg" width="250" alt="Shot 7">
+  <img src="docs/images/3.1/8.jpg" width="250" alt="Shot 8">
+  <img src="docs/images/3.1/9.jpg" width="250" alt="Shot 9">
+  <img src="docs/images/3.1/10.jpg" width="250" alt="Shot 10">
+  <img src="docs/images/3.1/11.jpg" width="250" alt="Shot 11">
+  <img src="docs/images/3.1/12.jpg" width="250" alt="Shot 12">
+  <img src="docs/images/3.1/13.jpg" width="250" alt="Shot 13">
+  <img src="docs/images/3.1/14.jpg" width="250" alt="Shot 14">
+  <img src="docs/images/3.1/15.jpg" width="250" alt="Shot 15">
+  <img src="docs/images/3.1/16.jpg" width="250" alt="Shot 16">
+  <img src="docs/images/3.1/17.jpg" width="250" alt="Shot 17">
+  <img src="docs/images/3.1/18.jpg" width="250" alt="Shot 18">
+  <img src="docs/images/3.1/19.jpg" width="250" alt="Shot 19">
+  <img src="docs/images/3.1/20.jpg" width="250" alt="Shot 20">
+  <img src="docs/images/3.1/21.jpg" width="250" alt="Shot 21">
+</p>
+
+<details>
+<summary>View older screenshots:</summary>
+
+#### v3.0 Screenshots
+
+<p align="left">
+  <img src="docs/images/3.0/header.jpg" width="250" alt="header">
+  <img src="docs/images/3.0/1.jpg" width="250" alt="Shot 1">
+  <img src="docs/images/3.0/2.jpg" width="250" alt="Shot 2">
+  <img src="docs/images/3.0/3.jpg" width="250" alt="Shot 3">
+  <img src="docs/images/3.0/4.jpg" width="250" alt="Shot 4">
+  <img src="docs/images/3.0/5.jpg" width="250" alt="Shot 5">
+  <img src="docs/images/3.0/6.jpg" width="250" alt="Shot 6">
+  <img src="docs/images/3.0/7.jpg" width="250" alt="Shot 7">
+  <img src="docs/images/3.0/8.jpg" width="250" alt="Shot 8">
+  <img src="docs/images/3.0/9.jpg" width="250" alt="Shot 9">
+  <img src="docs/images/3.0/10.jpg" width="250" alt="Shot 10">
+  <img src="docs/images/3.0/11.jpg" width="250" alt="Shot 11">
+  <img src="docs/images/3.0/12.jpg" width="250" alt="Shot 12">
+  <img src="docs/images/3.0/13.jpg" width="250" alt="Shot 13">
+  <img src="docs/images/3.0/14.jpg" width="250" alt="Shot 14">
+  <img src="docs/images/3.0/15.jpg" width="250" alt="Shot 15">
+  <img src="docs/images/3.0/16.jpg" width="250" alt="Shot 16">
+  <img src="docs/images/3.0/17.jpg" width="250" alt="Shot 17">
+  <img src="docs/images/3.0/18.jpg" width="250" alt="Shot 18">
+  <img src="docs/images/3.0/19.jpg" width="250" alt="Shot 19">
+  <img src="docs/images/3.0/20.jpg" width="250" alt="Shot 20">
+  <img src="docs/images/3.0/21.jpg" width="250" alt="Shot 21">
+  <img src="docs/images/3.0/22.jpg" width="250" alt="Shot 22">
+  <img src="docs/images/3.0/23.jpg" width="250" alt="Shot 23">
+  <img src="docs/images/3.0/24.jpg" width="250" alt="Shot 24">
+  <img src="docs/images/3.0/25.jpg" width="250" alt="Shot 25">
+  <img src="docs/images/3.0/26.jpg" width="250" alt="Shot 26">
+  <img src="docs/images/3.0/27.jpg" width="250" alt="Shot 27">
+</p>
+
+</details>
+
+## Install & Run
+
+1. Download the map and its dependencies:
+
+| Version | Date | Status | Download (Ready to Play) |
+|:---|:---|:---|:---|
+| 0.1 | 2015-07-05 | Alpha | – |
+| 1.0 | 2015-08-30 | Beta | – |
+| 2.0 | 2015-09-26 | Beta | – |
+| 3.0 | 2015-08-08 | Beta | – |
+| **3.1** | **2026-06-01** | **latest** | [*Download Map (.dpk)*](https://github.com/Masmblr/map-jota2_src/releases/latest) |
+
+2. Place the `.dpk` file(s) into your `pkg/` directory:
+   - **Linux:** `~/.local/share/unvanquished/pkg/`
+   - **macOS:** `~/Library/Application Support/Unvanquished/pkg/`
+   - **Windows:** `%AppData%\Unvanquished\pkg\`
+
+3. Start the game and navigate to:
+   **Server Listings** -> **Start Local/LAN game** -> select **Jota 2** under **Map** -> press **Start**.
+
+## Changelog
+
+### v3.1 (Current Version)
+- Compiled with new build presets of NetRadiant Q3Map (ydnar) v2.5.17n-git-530b81e8 and NetRadiant v1.5.0 Apr 23 2026 18:38:1
+- Source refactored and map renamed to jota2 due to significant differences from Trem Jota and naming issues
+- Level-wide lighting completely redone due to engine lighting changes
+- Implemented lighting adjustments, featuring more colored lights and grid shadows
+- Removed all light entities and light_juniors
+- Selected lamps now feature grates to create more interesting shadow casting
+- Updated skybox model, adjusted cloud height, and reduced yellow tone of the sky light
+- Overhauled and cleaned up shader and texture sets
+- Sharper texturing achieved by reducing texture scale for seamless textures and replacing them with higher-resolution versions
+- Replaced custom EXM textures with stock shared_ex textures
+- Updated and simplified grate textures / Replaced grid texture
+- Extensively overhauled decals and removed several smudge decals that looked unnatural on heightmapped surfaces
+- Main center area brushwork completely reworked and updated with more details
+- Reworked fan entity
+- Replaced valve wheel asset
+- Balloon entity now rises and lowers at a faster speed
+- Changed yellow barrel color to red
+- Removed all hint brushes (Original implementation had questionable usefulness)
+- Removed player clip models at specific connection points to allow for more interesting gameplay
+
+<details>
+<summary>View older versions</summary>
+
+#### v3.0
+- Map completely overhauled including more details, revamped and newly created textures, shaders, particle systems, and sounds
+- Overhauled textures, shaders, and particle systems
+- Lighting improved to create a more cohesive atmosphere
+- Improved lighting
+- Symmetrical map sides color-coded for better orientation (Human side blue, Alien side red)
+- Architecture made more detailed and number of decals increased
+- Improved detailed architecture 
+- Increased number of decals
+- Terrain shaped more organically and skybox enhanced with a large landscape
+- Organic terrain shape and expanded skybox
+- Large cone with a special shader added beneath the terrain to simulate gas emanating from Jota Station
+- Gas effects implemented via multiple particle systems in several locations
+- More particle systems
+- Enhanced shaders
+- Electric sparks and direct lights added for flickering effects in certain scenes
+- Large crane in the center now swings
+- Massive gas balloon moves up and down
+- Swinging crane and moving gas balloon
+- Haze particle system and emergency sound activated at the end of each round
+- Game-Over-Scene added
+- Water enhanced with a haze shader layer for a more realistic look
+- Haze effects added to wet rock textures and glass textures for stronger light distortion
+- Props like boxes and barrels reworked with more details and new textures
+- Reworked props with new textures
+- Soundscape adjusted to fit the environment (wind noise from fans, humming gas pipes, typical computer sounds)
+- Adjusted soundscape
+- Bugfixes..
+- License updated
+
+#### v2.0
+- Extended map geometry
+- Entity cleanup
+- Texture / Brush errors fixed
+- Colorgrading changed
+- Navmeshes updated
+- New textures and sounds
+- License updated
+
+#### v1.0
+- Texture / Brush errors fixed
+- Colorgrading added
+- Reverb effect added
+- Added navmeshes support
+- Extended map geometry
+- License updated
+	
+#### v0.1
+- Initial alpha release
+
+</details>
 
 
-## Screenshots:
-[<img src="readme_meta/preview_levelshots/1.jpg" width="250"/>](readme_meta/preview_levelshots/1.jpg)
-[<img src="readme_meta/preview_levelshots/2.jpg" width="250"/>](readme_meta/preview_levelshots/2.jpg)
-[<img src="readme_meta/preview_levelshots/3.jpg" width="250"/>](readme_meta/preview_levelshots/3.jpg)
-[<img src="readme_meta/preview_levelshots/4.jpg" width="250"/>](readme_meta/preview_levelshots/4.jpg)
-[<img src="readme_meta/preview_levelshots/5.jpg" width="250"/>](readme_meta/preview_levelshots/5.jpg)
-[<img src="readme_meta/preview_levelshots/6.jpg" width="250"/>](readme_meta/preview_levelshots/6.jpg)
-[<img src="readme_meta/preview_levelshots/7.jpg" width="250"/>](readme_meta/preview_levelshots/7.jpg)
-[<img src="readme_meta/preview_levelshots/8.jpg" width="250"/>](readme_meta/preview_levelshots/8.jpg)
-[<img src="readme_meta/preview_levelshots/9.jpg" width="250"/>](readme_meta/preview_levelshots/9.jpg)
-[<img src="readme_meta/preview_levelshots/10.jpg" width="250"/>](readme_meta/preview_levelshots/10.jpg)
-[<img src="readme_meta/preview_levelshots/11.jpg" width="250"/>](readme_meta/preview_levelshots/11.jpg)
-[<img src="readme_meta/preview_levelshots/12.jpg" width="250"/>](readme_meta/preview_levelshots/12.jpg)
+## Setup Source
 
-## History:
-| Version: | Date:        | Status: |    
-| ------- | ------------- | ------: | 
-| 1.0    | 05/07/2015  | alpha |
-| 1.1    | 30/08/2015  | beta |
-| 1.15    | 13/08/2024  | beta |
+To build or modify this map, you need to clone the source along with its dependencies (submodules).
 
- * * *
+### 1. Clone with dependencies
+```
+git clone --recurse-submodules https://github.com/Masmblr/map-jota2_src.git
+cd map-jota2_src
+```
 
-    Changelog:
-    
-    05.07.2015: v1.0
-    -Initial release
-    
-    30.08.2015: v1.1
-    -NavMeshes added
-    -Geometry enhanced
-    -Shader and gfx updates
+### 2. Merge Dependencies
 
-    13.08.2024: v1.15
-    -Shader and Texture enhancements
-    -Various fixes
-    -Source cleanup
-    -Sounds exchanged
-    -License updated
+Run the provided script for your OS to merge the dependencies into the project structure:
 
- * * *
+Linux / macOS:
+```bash
+chmod +x merge.sh
+./merge.sh
+```
 
-## Development Tools:
+Windows (PowerShell):
+```PowerShell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\merge.ps1
+```
+
+<details>
+<summary>Dependencies:</summary>
+  
+[tex-common](https://github.com/UnvanquishedAssets/tex-common_src.dpkdir)  
+[tex-ex](https://github.com/UnvanquishedAssets/tex-ex_src.dpkdir)  
+[tex-space](https://github.com/UnvanquishedAssets/tex-space_src.dpkdir)  
+
+</details>
+
+> [!TIP]
+> Note: You can also manually copy the contents of the dependencies/ subfolders 
+> into src/map-jota2_src/ or symlink them if you prefer to manage dependencies yourself.
+
+### 3. Install & Testing
+
+To load the map in **NetRadiant** and test it in-game, copy or link the contents of the `src/` folder into your Unvanquished pkg directory:
+
+- **Linux:** `~/.local/share/unvanquished/pkg/`
+- **macOS:** `~/Library/Application Support/Unvanquished/pkg/`
+- **Windows:** `%AppData%\Unvanquished\pkg\`
+
+It should look like this: `.../unvanquished/pkg/map-jota2_src/`
+
+### Build
+
+If you want to compile the map yourself:
+
+1. Install NetRadiant (v1.5.0 or higher) and choose the **Unvanquished** game profile.  
+2. Open the **.map** file from `...unvanquished/pkg/map-jota2_src/maps/`.    
+3. Build the map by navigating to **Build** -> **Build everything for release**.
+
+### Run
+Start the map via terminal or shortcut (add `.exe` on Windows):
+
+```bash
+daemon +developer 1 +devmap jota2
+```
+
+
+
+## Tools:
 [GIMP](https://www.gimp.org/) \
 [Photoshop](https://www.adobe.com/de/products/photoshop.html) \
 [Audacity](https://www.audacityteam.org/) \
-[NetRadiant](https://netradiant.gitlab.io/) (v1.5.0-20220628) \
+[NetRadiant](https://netradiant.gitlab.io/) \
+[Blender](https://www.blender.org) \
 [Q3Map2](http://q3map2.robotrenegade.com/) \
 [Notepad++](https://notepad-plus-plus.org/) \
-[Visual Studio Code](https://code.visualstudio.com/)
+[Crunch](https://github.com/BinomialLLC/crunch)
 
-## Thanks to:
-* id Software for Quake3
-* Team Xonotic for NetRadiant 
-* Unvanquished Development for Unvanquished
+## Related Resources
+[Unvanquished](https://unvanquished.net)  
+[NetRadiant](https://netradiant.gitlab.io )   
 
-## Related Resources:
-Unvanquished website: https://unvanquished.net \
-NetRadiant Level-Editor: https://netradiant.gitlab.io \
-Unvanquished-Mapping Wiki: https://wiki.unvanquished.net/wiki/Mapping \
-Quake3 Shader Manual: http://toolz.nexuizninjaz.com/shader/ \
-Quake3 advanced Map-Compiler: http://q3map2.robotrenegade.com \
-Excellent source of various sounds: https://freesound.org
+## Credits & License
+A comprehensive list of all files and their respective licenses can be found in the following document:
+[→ LICENSE](LICENSE)
 
-## Credits - Legal Information and Attribution
-Below is a list of files along with their legal statuses. For detailed license information,
-please refer to the LICENSE file or the provided link. Works that incorporate elements
-influenced by other pieces are indicated with an asterisk (*) at the end, followed by the original author.
-
-The following files are published by Matthias “Masmblr” Peters (masmblr@gmail.com)
-under the CC BY 4.0 - Attribution 4.0 International license:
-
-DEPS \
-LICENSE \
-README.md \
-VERSION \
-about\fortification.txt
-env/fortification/desert_bk.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_dn.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_ft.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_lf.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_rt.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-env/fortification/desert_up.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-gfx/fortification/colorgrading.jpg * (https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
-maps/fortification.map \
-meta/fortification/fortification.arena \
-meta/fortification/fortification.jpg \
-minimaps/fortification.jpg \
-readme_meta/header/header.jpg \
-preview_levelshots/1.jpg \
-preview_levelshots/2.jpg \
-preview_levelshots/3.jpg \
-preview_levelshots/4.jpg \
-preview_levelshots/5.jpg \
-preview_levelshots/6.jpg \
-preview_levelshots/7.jpg \
-preview_levelshots/8.jpg \
-preview_levelshots/9.jpg \
-preview_levelshots/10.jpg \
-preview_levelshots/11.jpg \
-preview_levelshots/12.jpg \
-scripts/fortification_custom.particle \
-scripts/fortification_custom.shader \
-scripts/shaderlist.txt \
-sounds/fortification/fortification_amb.opus * ([inchadney](https://freesound.org/people/inchadney), Attribution-ShareAlike 4.0) \
-sounds/fortification/pump_start.opus * ([Jorge_M_Rodrigues](https://freesound.org/people/Jorge_M_Rodrigues/), Attribution NonCommercial 4.0) \
-sounds/fortification/pump_end.opus * ([Jorge_M_Rodrigues](https://freesound.org/people/Jorge_M_Rodrigues/), Attribution NonCommercial 4.0) \
-textures/fortification_custom_src/crate_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_01_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_01_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_02_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_02_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/crate_02_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\ecal_01.jpg \
-textures/fortification_custom_src/env\fortification\oor_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_01_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_01_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_02_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_02_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\oor_02_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/env\fortification\ust_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_01b_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_01_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_01_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_02_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_02_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_02_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_03_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_03_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_03_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04b_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04ter_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_04_ter_blend.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_05_d.jpg \
-textures/fortification_custom_src/floor_05_n.jpg \
-textures/fortification_custom_src/floor_05_s.jpg \
-textures/fortification_custom_src/floor_06_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_06_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_06_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_07_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_07_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_07_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_08_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_08_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/floor_08_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_blink.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_glow.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/func_01_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/glass_01_d.jpg \
-textures/fortification_custom_src/glass_01_hhm.jpg \
-textures/fortification_custom_src/glass_01_n.jpg \
-textures/fortification_custom_src/glass_01_s.jpg \
-textures/fortification_custom_src/light_01_blink.jpg \
-textures/fortification_custom_src/light_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_01_glow.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_01_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_01_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_02_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_02_glow.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_02_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_02_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_03_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_03_glow.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_03_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/light_03_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/nature_01b_d.jpg \
-textures/fortification_custom_src/nature_01_d.jpg \
-textures/fortification_custom_src/nature_01_n.jpg \
-textures/fortification_custom_src/nature_01_s.jpg \
-textures/fortification_custom_src/nature_02b_d.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/nature_02ter_d.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/nature_02_d.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/nature_02_n.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/nature_02_s.jpg * ([Szico VII](www.szicovii.com), Attribution-ShareAlike) \
-textures/fortification_custom_src/null.jpg \
-textures/fortification_custom_src/sand_drift.jpg \
-textures/fortification_custom_src/sfx_01.jpg \
-textures/fortification_custom_src/sfx_02.jpg \
-textures/fortification_custom_src/sfx_envmap.jpg \
-textures/fortification_custom_src/top_01b_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/top_01b_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/top_01b_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/top_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_01_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_01_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_02_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_02_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_02_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_03_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_03_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_03_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_04_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_04_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/trim_04_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_01_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_01_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_01_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_03_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_03_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_03_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_04_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_04_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_04_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_05_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_05_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_05_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_06_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_06_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_06_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_07_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_07_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_07_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_07_sand_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_08_d.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_08_n.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/wall_08_s.jpg * (Milosh Andrich, Attribution License) \
-textures/fortification_custom_src/weather.jpg \
-textures/fortification_custom_src/qer_related/desert_light_img.jpg \
-textures/fortification_custom_src/qer_related/dessert_fog.jpg \
-textures/fortification_custom_src/qer_related/qer_alphablend_0.jpg \
-textures/fortification_custom_src/qer_related/qer_alphablend_1.jpg
+## Acknowledgments
+- id Software for Quake3
+- Unvanquished Development for Unvanquished
+- Team Xonotic for NetRadiant
