@@ -18,12 +18,14 @@ Thumbs.db
 desktop.ini
 *.db
 
-# Adobe:
+# Gfx:
 *.psd
 *.ai
+*.kra
+*.kra~
 
 # Misc:
 *.7z
 
 # Private:
-TRASH/
+DEV/
