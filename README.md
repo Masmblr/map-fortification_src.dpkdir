@@ -53,8 +53,6 @@ Delving deeper into the mysteries of the abandoned military base, players will d
   <img src="docs/images/1.2/17.jpg" width="250" alt="Shot 17">
   <img src="docs/images/1.2/18.jpg" width="250" alt="Shot 18">
   <img src="docs/images/1.2/19.jpg" width="250" alt="Shot 19">
-  <img src="docs/images/1.2/20.jpg" width="250" alt="Shot 20">
-  <img src="docs/images/1.2/21.jpg" width="250" alt="Shot 21">
 </p>
 
 <details>
